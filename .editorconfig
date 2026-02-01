@@ -1,0 +1,35 @@
+# .editorconfig
+root = true
+
+# إعدادات لجميع الملفات
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 2
+
+# ملفات Python
+[*.py]
+indent_size = 4
+
+# ملفات JavaScript/TypeScript
+[*.{js,jsx,ts,tsx}]
+indent_size = 2
+
+# ملفات HTML
+[*.html]
+indent_size = 2
+
+# ملفات CSS/SCSS
+[*.{css,scss,sass}]
+indent_size = 2
+
+# ملفات JSON
+[*.json]
+indent_size = 2
+
+# ملفات Markdown
+[*.md]
+trim_trailing_whitespace = false

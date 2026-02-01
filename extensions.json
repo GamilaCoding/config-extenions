@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "christian-kohler.path-intellisense",
+    "formulahendry.auto-rename-tag",
+    "ms-ceintl.vscode-language-pack-ar",
+    "ritwickdey.liveserver",
+    "pranaygp.vscode-css-peek",
+    "ecmel.vscode-html-css",
+    "ms-python.python",
+    "ms-python.vscode-pylance"
+  ]
+}
